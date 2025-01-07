@@ -1,22 +1,35 @@
 *This text has been machine translated.
+
 ＊このREADMEの英語部分は機械翻訳で作成されています。
-----------------------------------------------------------------------------------
+-------------------------------------------
  2025 ULTIMATE mCFW(moddedCFW) PROJECT :『6.61 LME Type B』
-----------------------------------------------------------------------------------
+-------------------------------------------
 @Thanks to the pioneers, this mCFW is complete. Endless respect to them...
 ＠偉大なる先駆者達のおかげで、このmCFWは完成しました。果てしない尊敬を彼らに…
 [(listed in) no particular order]
+
 [順不同]
+
 neur0n
+
 Rahim-US
+
 LMAN
+
 Frostegater
+
 qwikrazor87
+
 Warlock
+
 plum_429 (plum)
+
 Poison
+
 Omega2058
+
 Total_Noob
+
 ----------------------------------------------------------------------------------
 @How to Install（NORMAL)
 ＠インストール方法（ノーマルインストール）
