@@ -66,6 +66,7 @@ Each plug-in is already optimally configured, so no new settings are required.
 ＠アップデート履歴
 
 2025/1/6(UTC+9):Ver1.0.0
+
 -------------------------------------------
 ￥ここから怒涛の日本語ラッシュ￥
 こんにちは。このLMEMODの製作者です。 
