@@ -1,8 +1,10 @@
 *This text has been machine translated.
 
 ＊このREADMEの英語部分は機械翻訳で作成されています。
+
 -------------------------------------------
- 2025 ULTIMATE mCFW(moddedCFW) PROJECT :『6.61 LME Type B』
+2025 ULTIMATE mCFW(moddedCFW)
+PROJECT :『6.61 LME Type B』
 -------------------------------------------
 @Thanks to the pioneers, this mCFW is complete. Endless respect to them...
 ＠偉大なる先駆者達のおかげで、このmCFWは完成しました。果てしない尊敬を彼らに…
@@ -30,7 +32,7 @@ Omega2058
 
 Total_Noob
 
-----------------------------------------------------------------------------------
+-------------------------------------------
 @How to Install（NORMAL)
 ＠インストール方法（ノーマルインストール）
 
@@ -45,13 +47,18 @@ Total_Noob
 　will reboot and the screen UI will be unique. This completes the installation.
 
 *I will not discuss the Infinity 2 introduction, as it has been presented in many other places.
+
 ＊「Infinity 2」導入については他でたくさん紹介されているので、ここでは割愛します。
+
 -------------------------------------------
 @Main Functions
 ＠主な機能
 It comes pre-installed with useful plug-ins and filing software.Other than that, it is a normal LME.
+
 便利なプラグインとファイラーをプリインストールしてあります。それ以外は普通のLMEです。
+
 Each plug-in is already optimally configured, so no new settings are required.
+
 各プラグインはすでに最適に設定されているので、新たな設定の必要はありません。
 
 -------------------------------------------
@@ -81,5 +88,6 @@ do it for me.
 On the other hand, how simple and easy to use is the most discreet LME.
 I thought. (If LME were made more convenient, it would be the most powerful CFW.) 
 This mod is the result.
+
 -------------------------------------------
 MADE BY BAYASHI 2025
